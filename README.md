@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/omnicom-banner.svg" alt="OmniCom" width="100%" />
+</p>
+
 # OmniCom
 
 OmniCom is a unified inbox prototype for aggregating conversations from multiple communication channels into a single interface.
